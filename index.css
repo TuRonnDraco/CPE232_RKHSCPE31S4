@@ -190,6 +190,9 @@ body {
 .container section {
     margin:8vh 0px;
 }
+.container a {
+    color: white;
+}
 #used div{
     font-size:14px !important;
     display:inline-block;
@@ -358,7 +361,4 @@ body {
     #box div {
         width:100%;
     }
-}
-a {
-	color: white;
 }
